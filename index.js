@@ -14,7 +14,7 @@ mongoose.connect("mongodb+srv://tanvieDEV:whPUW4YdIjPeP0mi@cluster0.fb1wzfq.mong
     console.log(`Database connection is successful ` );
     
     app.listen(port, () => {
-        console.log(`Ecom Server Running on Port ${port}`)
+        console.log(`Server Running on Port ${port}`)
     })
 });
   
