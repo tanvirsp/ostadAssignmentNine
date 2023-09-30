@@ -1,5 +1,5 @@
 
-db.creatteCollection("users");
+db.createCollection("users");
 
 db.users.drop()
 
